@@ -6,4 +6,4 @@ Contact:
   
   discord: plex#4750
   
-  twitter: @plexreturns
+  twitter: @AMOGUSBURGER
