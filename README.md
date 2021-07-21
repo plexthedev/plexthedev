@@ -4,6 +4,6 @@ Contact:
 
   email: plexthedev@gmail.com
   
-  discord: plex#4750
+  discord: plexislucky#4750
   
-  twitter: @AMOGUSBURGER
+  twitter: @ykculsicelp
