@@ -6,4 +6,4 @@ Contact:
   
   discord: plexislucky#4750
   
-  twitter: @ykculsicelp
+  twitter: @plexwipesall
